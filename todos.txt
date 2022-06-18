@@ -1,1 +1,0 @@
-1. Add token-authentication and send it as first message to PI
